@@ -57,6 +57,6 @@
     </build>
 
     <properties>
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
     </properties>
 </project>
